@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "name": "lzpmarket-rjkhj",
+  "title": "软件库合集",
+  "version": "1.0.0",
+  "versionMode": "semantic",
+  "publisher": "nekobyran",
+  "publisherAvatar": "assets\/258021052.jpg",
+  "description": "软件库合集，不定时更新",
+  "icon": "assets\/image-3A7342.jpg",
+  "readme": "README.md",
+  "sources": "sources.lzp",
+  "categories": []
+}
